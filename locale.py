@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  version: '1.0.0'
+  version: "2.0.0"
   title: Sample Application Flow OAuth2 Project
   description: This is an example of using OAuth2 Application Flow in a specification to describe security to your API.
 
@@ -55,4 +55,4 @@ host: virtserver.swaggerhub.com
 schemes:
  - https
 # Added by API Auto Mocking Plugin
-basePath: /VSPL/test/1.0.0
+basePath: /VSPL/test/2.0.0
